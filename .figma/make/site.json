@@ -1,0 +1,11 @@
+{
+  "title": "Cypher Studio",
+  "description": "Design and customize user interfaces effortlessly with an intuitive platform that streamlines UI creation for developers and designers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
